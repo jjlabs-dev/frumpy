@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./branding/frumpy.png" alt="Frumpy Logo" width="300" height="300">
+  <img src="https://gitlab.com/jjlabs-dev/frumpy/-/raw/main/branding/frumpy.png" alt="Frumpy Logo" width="300" height="300">
 </p>
 
 # FRUMPy — [F]ind [R]epos, [U]ploads, [M]irrors, [P]ackages, [P]ayloads[y]
